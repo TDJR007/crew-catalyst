@@ -1,3 +1,13 @@
+## Watch the App in Action!
+
+<video src="./demo.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
+
+[Download / watch the demo video](./demo.mp4)
+
+---
+
 ### Local Development Instructions
 
 #### Prerequisites
